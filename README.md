@@ -2,7 +2,7 @@
 ## Link to the site 👉 https://ubc-bc.site
 #### Test User Login:
 #### - Username: Test@email.com
-#### - Password: 
+#### - Password: ubcbc
 ## Check out how it works here 👉 https://youtu.be/yqe2H05G6Ho 
 
 ## Inspiration 💡  
